@@ -1,0 +1,5 @@
+Før koden kan køres, skal IRremote biblioteket sættes ind i "lib" folderen i Arduino mappen
+
+
+Version 2: Robot armen fungere uden problemer - Dog roddet kode
+Version 3: Robot armen er ikke testet med denne kode - Koden er ukommenteret med der er indført en tilstandsmaskine
